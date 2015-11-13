@@ -508,3 +508,9 @@ dd p:first-child {
   font-size: .85em;
   font-style: italic;
 }
+
+#area1 {
+    position: relative;
+    height: 130px;
+    background-color: yellow;
+}
